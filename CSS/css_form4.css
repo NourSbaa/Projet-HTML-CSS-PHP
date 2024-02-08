@@ -1,0 +1,147 @@
+#mb100 {
+    width: 300px;
+    height: 150px;
+    margin-left: 0px;
+    margin-right: 1500px;
+    background-color:  #fff;;
+    border-color: black;
+    display: inline-flex;
+    border-radius:0%;
+    box-shadow: 0px 0px  ;
+    
+}
+#mb100{
+    background: url(../image/logo2.png) no-repeat;
+    background-size: cover;}
+
+
+label{
+    color: #000000;
+}
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: #718ec3;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+html{
+  background: url("../image/f2.png") ;
+}
+
+.box {
+    margin: 20px auto;
+    width: 500px; 
+    height: 830px; 
+    -webkit-border-radius: 8px/7px; 
+    -moz-border-radius: 8px/7px; 
+    border-radius: 8px/7px; 
+    background-color: #ebebeb; 
+  
+    border: solid 3px #d594cb;
+  }
+
+form{
+  margin: 0 30px;
+}
+
+label.radio {
+	cursor: pointer;
+  text-indent: 35px;
+  overflow: visible;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 15px;
+}
+
+
+
+
+
+input[type=text],input[type=password]{
+  width: 300px; 
+  height: 50px; 
+  border-radius: 0px 4px 4px 0px/5px 5px 4px 4px; 
+  background-color: #fff; 
+  box-shadow: 1px 2px 5px rgba(0,0,0,.09); 
+  border: solid 2px #000000;
+  margin-left: -5px;
+  margin-top: 13px; 
+  padding-left: 10px;
+}
+
+input[type=password]{
+  margin-bottom: 25px;
+}
+
+#icon {
+  display: inline-block;
+  width: 50px;
+  background-color: #6cafc5;
+  padding: 8px 0px 8px 15px;
+  margin-left: 15px;
+  color: white;
+  border: solid 0px #cbc9c9;
+}
+
+.gender {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.accounttype{
+  margin-left: 8px;
+  margin-top: 20px;
+}
+
+a.button {
+  font-size: 15px;
+  font-weight: 850;
+  color: white;
+  padding: 10px 35px 0px 20px;
+  margin: -15px 170px 50px 50px;
+  display: inline-block;
+  float: right;
+  text-decoration: none;
+  width: 50px; height: 27px; 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color: #6cafc5; 
+  top: 0px;
+  text-align: center;
+
+}
+a.button1 {
+    font-size: 15px;
+    font-weight: 850px;
+    color: white;
+    padding: 10px 40px 40px 30px;
+    margin: -15px 170px 50px 50px;
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    width: 50px; height: 27px; 
+    -webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px; 
+    background-color: #6cafc5; 
+    top: 0px;
+    text-align: center;
+  
+  }
+
+a.button:hover {
+  top: 10px;
+  background-color:#6cafc5;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+  text-align: center;
+  
+
+  
+}
+

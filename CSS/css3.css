@@ -1,0 +1,19 @@
+html{
+    background: url("../image/sup.png") ;
+  }
+    #mb100 {
+        width: 300px;
+        height: 150px;
+        margin-left: 0px;
+        margin-right: 1500px;
+        background-color:  #fff;;
+        border-color: black;
+        display: inline-flex;
+        border-radius:0%;
+        box-shadow: 0px 0px  ;
+        
+    }
+    #mb100{
+        background: url(../image/logo2.png) no-repeat;
+        background-size: cover;}
+        

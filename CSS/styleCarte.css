@@ -1,0 +1,32 @@
+#mb15 {
+    width: 350px;
+    height: 350px;
+    margin-left: 450px;
+    margin-right: 200px;
+    background-color: rgb(231, 26, 26);
+    border-color: black;
+    display: inline-flex;
+    border-radius: 60%;
+    box-shadow: 0px 0px  ;
+    display: inline-block
+  
+}
+#mb15{
+    background: url('http://fairedesgifs.free.fr/cartebancaire/carte%20(49).gif') no-repeat;
+    background-size: cover ;}
+    body{
+        background-color:rgb(204, 198, 198) ;
+        margin: 0px;
+        color:rgb(0, 0, 0); /*aal liktiba*/
+        background: url('../image/fond\ carte.jpg');
+        /*background-repeat: no-repeat;*/
+       /* background-size: cover;/*kober i taswira cover yaani lkol ) */
+        margin:0px ; 
+        position: relative;/* yekhouh keml */
+        /*text-align: center;*/
+    
+    
+
+
+}
+   

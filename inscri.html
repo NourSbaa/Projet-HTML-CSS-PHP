@@ -1,0 +1,41 @@
+<link rel="stylesheet" type="text/css" href="css/css_form2.css">
+<div class="box">
+  <h1>Inscription</h1>
+
+  <form  method="POST"  action="crud.php">
+  
+  <input type="text" name="email" id="email" placeholder="Email" />
+  <label id="icon" for="name"><i class="icon-user"></label>
+    <input type="password" name="password" id="password" placeholder="Mot de passe" />
+  <label id="icon" for="name"><i class="icon-shield"></label> 
+    <input type="text" name="nom" id="nom" placeholder="Nom" />
+  <label id="icon" for="name"><i class="icon-shield"></label>
+  <input type="text" name="prenom" id="prenom" placeholder="Prenom" />
+  <label id="icon" for="name"><i class="icon-shield"></label>
+    <input type="text" name="tel" id="tel" placeholder="Tel" />
+    <label id="icon" for="name"><i class="icon-shield"></label> <br> <br>
+      <label>Date de naissance :</label>
+      <input type="date" name="datenaissance" id="name" placeholder="Date" />
+  <br><br>
+  <label>Ville :</label>
+  <input type="radio"value="sfax"name="ville" checked><label>Sfax</label>
+  <input type="radio"value="gabes"name="ville"><label>Gabes</label>
+  <input type="radio"value="sousse"name="ville"><label>Sousse</label>
+  <input type="radio"value="tunis"name="ville"><label>Tunis</label>
+
+<br><br>
+<label>Sexe :</label>
+<input type="radio"value="femme"name="genre" checked><label>Femme</label>
+<input type="radio"value="homme"name="genre"><label>Homme</label>
+<br><br>
+<fieldset>
+       
+    <label>Votre Photo:</label>
+    <input type="file" name="cv" >
+    </fieldset>   
+    <button type="submit"  name="inscrire">S'inscrire</button>
+   
+  </form>
+  <script src="java/java.js" type="text/javascript"></script>
+</div>
+</div>

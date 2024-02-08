@@ -1,0 +1,75 @@
+html{
+    background: url("../image/bien.png");
+}
+#about{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    margin: 0px;
+    padding: 30px;
+    color: rgb(217, 53, 53);
+    text-align: center;
+}
+#about.footer{
+    background-color: rgb(8, 8, 8)}
+#about .container {
+    background :url("../ProjerWEB/image/bien.png") no-repeat}
+    nav ul li{
+        display: inline-flex;
+        padding-right:5px ;
+    }
+    ul li{
+        list-style:none;
+    
+    }
+    #mb100 {
+        width: 300px;
+        height: 150px;
+        margin-left: 0px;
+        margin-right: 1500px;
+        background-color:  #fff;;
+        border-color: black;
+        display: inline-flex;
+        border-radius:0%;
+        box-shadow: 0px 0px  ;
+        
+    }
+    #mb100{
+        background: url(../image/logo2.png) no-repeat;
+        background-size: cover;}
+        
+        #about{
+            background-color: rgb(0, 0, 0);
+            overflow: hidden;
+            margin: 0px;
+            padding: 30px;
+            color: rgb(217, 53, 53);
+            text-align: center;
+        }
+        #about.footer{
+            background-color: rgb(8, 8, 8)}
+        #about .container {
+            background :url("../ProjetWEB/bien.png") no-repeat}
+            nav ul li{
+                display: inline-flex;
+                padding-right:5px ;
+            }
+            ul li{
+                list-style:none;
+            
+            }
+            #mb100 {
+                width: 300px;
+                height: 150px;
+                margin-left: 0px;
+                margin-right: 1500px;
+                background-color:  #fff;;
+                border-color: black;
+                display: inline-flex;
+                border-radius:0%;
+                box-shadow: 0px 0px  ;
+                
+            }
+            #mb100{
+                background: url(../image/logo2.png) no-repeat;
+                background-size: cover;}
+                
